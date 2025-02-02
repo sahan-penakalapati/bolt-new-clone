@@ -21,7 +21,7 @@ This project is a work-in-progress implementation of a bolt.new clone, currently
 1. Clone and setup:
 
 ```bash
-git clone https://github.com/yourusername/bolt-new-clone.git
+git clone https://github.com/sahan-penakalapati/bolt-new-clone.git
 cd bolt-new-clone
 pnpm install
 ```
